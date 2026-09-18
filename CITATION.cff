@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite it as below."
+title: "Familien- und Erwachsenenbildung unter Druck"
+type: software
+authors:
+  - family-names: "Vanderheiden"
+    given-names: "Elisabeth"
+version: "1.0"
+date-released: "2026"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/Research2026-collab/EB-unter-druck"
+url: "https://research2026-collab.github.io/EB-unter-druck/"
+abstract: >-
+  Interaktive Präsentation mit zehn Thesen zu aktuellen Veränderungen
+  der Familien- und Erwachsenenbildung. Die Anwendung verbindet Thesen
+  mit empirischen Befunden, rechtlichen Entwicklungen und weiterführenden Quellen.
